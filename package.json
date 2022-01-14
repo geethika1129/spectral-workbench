@@ -10,7 +10,7 @@
     "adapterjs": "^0.15.5",
     "bootstrap-css": "jozefizso/bower-bootstrap-css#~2.3.2",
     "bs-stepper": "^1.7.0",
-    "d3": "^3.5.4",
+    "d3": "^7.3.0",
     "flot": "~0.8.0-alpha",
     "getusermedia-js": "^1.0.0",
     "jasmine": "^4.0.2",
